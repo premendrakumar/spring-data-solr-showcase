@@ -1,0 +1,1 @@
+# spring-data-solr-showcase
